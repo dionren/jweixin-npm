@@ -1,5 +1,5 @@
 # jweixin-npm
-封装最新微信jweixin-1.4.0.js文件的NPM
+封装最新微信jweixin-1.6.0.js文件的NPM
 
 ## Usage
 

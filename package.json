@@ -1,13 +1,13 @@
 {
   "name": "jweixin-npm",
-  "version": "1.4.3",
-  "description": "封装最新微信jweixin-1.4.0.js文件的NPM",
+  "version": "1.6.0",
+  "description": "封装最新微信jweixin-1.6.0.js文件的NPM",
   "author": "Dion Ren <me@dionren.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/dionren/jweixin-npm.git"
   },
-  "main": "jweixin-1.4.0.js",
+  "main": "jweixin-1.6.0.js",
   "private": false,
   "scripts": {
     "test": "node ./test"
